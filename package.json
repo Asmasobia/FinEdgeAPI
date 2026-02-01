@@ -1,0 +1,11 @@
+{
+  "name": "finedgeapi",
+  "version": "1.0.0",
+  "description": "A Node.js API for tracking personal expenses, managing budgets and expense monitoring",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Group21",
+  "license": "MIT"
+}
